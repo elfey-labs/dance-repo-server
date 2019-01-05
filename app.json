@@ -1,0 +1,5 @@
+{
+  "name": "Dance Repo Server",
+  "description": "The dance repo server to server data to dance repo.",
+  "addons": [ "heroku-postgresql" ]
+}
